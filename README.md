@@ -14,4 +14,4 @@ This repository contains a Django project designed to [briefly describe the purp
 Clone the repository and follow the setup instructions to run the project locally.
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Joe-saki/Mangrove.git
