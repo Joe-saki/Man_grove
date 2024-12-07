@@ -6,8 +6,8 @@ This repository contains a Django project designed to [briefly describe the purp
 ## Features
 
 - Built with Django framework.
-- [Add any key feature, e.g., "User authentication," "RESTful API support," etc.]
-- [Other highlights or tools used.]
+- No key feature yet.
+- The use of VS code and latest python version and an approprite web browser for launching server.
 
 ## Getting Started
 
